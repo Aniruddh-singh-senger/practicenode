@@ -1,0 +1,3 @@
+Problem => 'error:03000086:digital envelope routines::initialization error'
+Answer =>  "start": "react-scripts --openssl-legacy-provider start",
+           "build": "react-scripts --openssl-legacy-provider build", 
